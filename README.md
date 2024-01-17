@@ -2,10 +2,10 @@
 `iptv-wolken`
 
 # Japan IPTV
-* `jp_self`: [m3u](https://github.com/ZWolken/iptv-wolkenblob/main/jp_self.m3u)
+* `jp_self`: [m3u](https://github.com/ZWolken/iptv-wolken/blob/main/jp_self.m3u)
 
 	```
-	https://github.com/ZWolken/iptv-wolkenblob/main/jp_self.m3u
+	https://github.com/ZWolken/iptv-wolken/blob/main/jp_self.m3u
 	```
 
 Last updated at `2024-01-16 23:12 UTC+8`
